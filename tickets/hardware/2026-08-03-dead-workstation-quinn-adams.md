@@ -71,6 +71,6 @@ back online as quickly as possible.
 
 ## What I'd Do Differently
 Before assigning the asset tag SD2022, I should have checked the asset register
-first to confirm it was actually the next free number rather than assuming it —
+first to confirm it was actually the next free number rather than assuming it,
 the SOP is explicit that names should never be reused or assigned without checking.
 Going forward, I'll check the register before naming any new asset.
