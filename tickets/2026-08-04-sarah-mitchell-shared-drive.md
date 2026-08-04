@@ -29,10 +29,10 @@ User's VPN client was disconnected. The Marketing shared drive lives on an inter
 
 ## Outcome
 
-Resolved — VPN reconnected, Marketing drive remapped to D: and confirmed accessible.
+Resolved -> VPN reconnected, Marketing drive remapped to D: and confirmed accessible.
 
 ## Screenshots
 
-![Solved ticket](screenshots/solved-ticket.png)
+![Solved ticket](screenshots/solved-ticket1.png)
 
 ![Chat confirmation](screenshots/chat-confirmation.png)
