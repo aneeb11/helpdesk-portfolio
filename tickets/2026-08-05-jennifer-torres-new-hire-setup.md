@@ -1,4 +1,4 @@
-# Ticket Resolution: INC0012853 — New Hire Account Setup (Jennifer Torres)
+# Ticket Resolution: INC0012853 - New Hire Account Setup (Jennifer Torres)
 
 **Assignee:** aneeb11
 **Submitted by:** Robert Torres (rtorres@servicedesk-simulator.com)
@@ -54,10 +54,10 @@ Added the account to the Engineering, VPN-Users, and CodeRepo-Access groups as r
 
 Notified Robert over Team Chat that the account and access were ready ahead of Monday's start date.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation3.png)
 
 ## Outcome
 
-Resolved — Directory account created for Jennifer Torres and added to Engineering, VPN-Users, and CodeRepo-Access groups, ready before Monday's 9 AM orientation.
+Resolved -> Directory account created for Jennifer Torres and added to Engineering, VPN-Users, and CodeRepo-Access groups, ready before Monday's 9 AM orientation.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved2.png)
