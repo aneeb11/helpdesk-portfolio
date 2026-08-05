@@ -1,4 +1,4 @@
-# Ticket Resolution: INC0012870 — All Printers Offline Building-Wide
+# Ticket Resolution: INC0012870 - All Printers Offline Building-Wide
 
 **Assignee:** aneeb11
 **Reported by:** Dorothy Martinez (dmartinez@servicedesk-simulator.com)
@@ -36,10 +36,10 @@ Rebooted the print server. After it came back online, CPU dropped to 25% and mem
 
 Confirmed over Team Chat with Dorothy that printers were back online and working.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation4.png)
 
 ## Outcome
 
-Resolved — print server rebooted, resource usage back to normal, printers confirmed working building-wide.
+Resolved —> print server rebooted, resource usage back to normal, printers confirmed working building-wide.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved3.png)
