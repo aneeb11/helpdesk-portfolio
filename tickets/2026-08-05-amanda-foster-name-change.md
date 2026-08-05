@@ -1,4 +1,4 @@
-# Ticket Resolution: Legal Name Change — Amanda Foster to Amanda Reyes
+# Ticket Resolution: Legal Name Change - Amanda Foster to Amanda Reyes
 
 **Assignee:** aneeb11
 **Submitted by:** Amanda Foster (afoster@servicedesk-simulator.com)
@@ -32,10 +32,10 @@ Changed display name to Amanda Reyes and updated the primary email to areyes@ser
 
 Notified Amanda over Team Chat that the update was complete and her old address would continue working as an alias.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation2.png)
 
 ## Outcome
 
-Resolved — display name and primary email updated, old address retained as alias.
+Resolved -> display name and primary email updated, old address retained as alias.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved1.png)
