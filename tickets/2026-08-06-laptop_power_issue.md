@@ -44,7 +44,7 @@ The slow blinking power indicator tells us:
 
 Held power button for 20-30 seconds to force a hard shutdown and reset. This clears any stuck states and allows full reboot.
 
-**Result:** Worked - System fully powered down after sustained button hold.
+**Result:** Worked -> System fully powered down after sustained button hold.
 
 ### Solution 2: Full Power Restart
 
