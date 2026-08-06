@@ -40,10 +40,10 @@ Updated timezone setting from Eastern to Central.
 
 Notified Kevin in Team Chat that the timezone has been corrected and all meetings now display at correct times.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation5.png)
 
 ## Outcome
 
 Resolved -> Computer timezone changed from Eastern to Central. System clock now displays correct time. All Team Chat meetings showing correct times. User confirmed resolution.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved4.png)
