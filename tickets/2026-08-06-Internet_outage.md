@@ -59,10 +59,10 @@ Rebooted the switch to clear the error condition and restore normal operation.
 
 Notified Hannah Kim in Team Chat that internet connectivity is restored and all services are back online.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation8.png)
 
 ## Outcome
 
 Resolved -> Floor 1 network switch was in error state and rebooted successfully. Internet connectivity fully restored. All departments can now access email, cloud apps, and web services.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved7.png)
