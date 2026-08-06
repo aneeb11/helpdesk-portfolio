@@ -56,6 +56,6 @@ Pressed power button normally to initiate boot sequence after force power cycle.
 
 Resolved -> Performed force power cycle by holding power button 20-30 seconds to clear low-power state. System restarted successfully and is now operational. Laptop ready before 10am meeting.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation7.png)
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved6.png)
