@@ -44,10 +44,10 @@ Added Kavita to IT Infrastructure group to grant infrastructure tool access for 
 
 Notified Tom Wilson in Team Chat that access changes are complete and ready for Wednesday start.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation6.png)
 
 ## Outcome
 
 Resolved -> Kavita Patel's access updated for department transfer. Removed from Engineering group, added to IT Infrastructure group. Access ready for Wednesday morning start.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved5.png)
