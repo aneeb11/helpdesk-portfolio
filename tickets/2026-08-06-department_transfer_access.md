@@ -1,4 +1,4 @@
-# Ticket Resolution: INC0012860 - Department Transfer Access Update
+# Ticket Resolution: INC0012860 -> Department Transfer Access Update
 
 **Assignee:** aneeb11  
 **Submitted by:** Tom Wilson (twilson@servicedesk-simulator.com)  
