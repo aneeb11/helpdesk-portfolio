@@ -24,7 +24,7 @@ Attachments not downloading while email reception works normally indicates Mail 
 
 **Why Mail Client is the Issue:**
 
-Emails arriving successfully means network connectivity and mail server connection work. If attachments won't download, the problem is within the Mail Client application itself — likely corrupted files or missing components responsible for handling file downloads.
+Emails arriving successfully means network connectivity and mail server connection work. If attachments won't download, the problem is within the Mail Client application itself, likely corrupted files or missing components responsible for handling file downloads.
 
 **Solution Strategy:**
 
@@ -36,7 +36,7 @@ Repair the Mail Client application to restore attachment download functionality.
 
 Established Remote Desktop connection to Kevin Zhang's workstation to diagnose and repair.
 
-![Remote Desktop connected](screenshots/remote-connected.png)
+![Remote Desktop connected](screenshots/remote-connected1.png)
 
 ### 2. Accessed application settings
 
@@ -60,10 +60,10 @@ Checked Mail client to confirm attachments now download and open successfully.
 
 Notified Kevin in Team Chat that attachment downloads are now functional.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation10.png)
 
 ## Outcome
 
 Resolved -> Mail Client application was corrupted, preventing attachment downloads. Repair operation restored functionality. Email attachments now download and open without errors. Kevin can access client contracts.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved9.png)
