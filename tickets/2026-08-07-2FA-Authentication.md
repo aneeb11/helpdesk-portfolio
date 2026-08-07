@@ -24,10 +24,10 @@ MFA codes being rejected consistently despite appearing correct indicates a sync
 
 **Possible Causes:**
 
-1. **Time sync issue** — Authenticator app and server clocks out of sync (TOTP relies on exact time)
-2. **Corrupted authenticator binding** — Server database has wrong authenticator secret
-3. **Stale app data** — Authenticator app has outdated token
-4. **Account lockout** — Account temporarily locked after failed attempts
+1. **Time sync issue** -> Authenticator app and server clocks out of sync (TOTP relies on exact time)
+2. **Corrupted authenticator binding** -> Server database has wrong authenticator secret
+3. **Stale app data** -> Authenticator app has outdated token
+4. **Account lockout** -> Account temporarily locked after failed attempts
 
 **Why MFA Reset is the Right Fix:**
 
@@ -61,10 +61,10 @@ After identity verification, reset MFA to clear corrupted authenticator binding 
 
 Notified Chris in Team Chat that MFA has been reset. He re-enrolled his authenticator app and confirmed system access restored.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation11.png)
 
 ## Outcome
 
 Resolved -> MFA binding was corrupted. Reset MFA forced re-enrollment with fresh authenticator synchronization. Chris logged back in, re-enrolled authenticator app, and can now access all company systems. 2FA working correctly.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved10.png)
