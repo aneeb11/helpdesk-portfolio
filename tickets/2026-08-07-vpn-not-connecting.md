@@ -64,10 +64,10 @@ VPN Client automatically reconnected after DNS cache was cleared. Tunnel now act
 
 Notified Sophia via Team Chat that VPN is working and internal resources accessible.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation9.png)
 
 ## Outcome
 
 Resolved -> VPN connection restored by clearing DNS resolver cache. Sophia can now access internal resources remotely. Tunnel active and routing traffic through corporate network.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved8.png)
