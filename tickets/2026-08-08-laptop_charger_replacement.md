@@ -50,8 +50,6 @@ Different outlet didn't resolve the issue. Power brick is dead and requires repl
 
 Requested Michael's shipping address via Team Chat for hardware replacement.
 
-![Address provided in chat](screenshots/address-chat.png)
-
 ### 4. Initiated hardware shipment
 
 Opened Ship Manager and entered Michael's details. Selected Laptop Charger as equipment to ship with Rush Priority (same-day).
@@ -62,10 +60,10 @@ Opened Ship Manager and entered Michael's details. Selected Laptop Charger as eq
 
 Notified Michael that replacement charger has been shipped with rush priority. Charger arrived same day and user confirmed it's working.
 
-![Chat confirmation](screenshots/chat-confirmation.png)
+![Chat confirmation](screenshots/chat-confirmation13.png)
 
 ## Outcome
 
 Resolved -> Laptop charger had hardware failure. Replacement charger shipped to Michael Brown at 5636 Willow Way, Columbus OH 43215 via rush priority. Charger received and working. Michael can now charge laptop normally.
 
-![Ticket resolved](screenshots/ticket-resolved.png)
+![Ticket resolved](screenshots/ticket-resolved12.png)
