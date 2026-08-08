@@ -50,8 +50,6 @@ Checked Documentation Station and found Mobile Email Setup guide with correct se
 
 Sent Priya the correct server settings for mobile setup via Team Chat.
 
-![Configuration details provided](screenshots/configuration-details.png)
-
 ### 4. User updated settings
 
 Priya navigated to Settings > Mail > Accounts, updated server settings (host, port, SSL/TLS), and confirmed email now syncing.
